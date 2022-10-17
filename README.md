@@ -1,2 +1,2 @@
-<h1>Test task - application to-do list</h1>
+<h1>application to-do list</h1>
 
